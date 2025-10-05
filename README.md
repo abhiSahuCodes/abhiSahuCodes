@@ -30,8 +30,7 @@ Email Me 👉 ✉️ **abhishek963sahu@gmail.com** For Collaboration/Project or 
 ![](https://github-profile-trophy.vercel.app/?username=abhiSahuCodes&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=Architect&quoteType=quote-for-the-day&bgColor=black&fontColor=orange)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abhiSahuCodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
