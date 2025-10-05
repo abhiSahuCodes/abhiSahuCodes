@@ -6,7 +6,6 @@ Email Me 👉 ✉️ **abhishek963sahu@gmail.com** For Collaboration/Project or 
 
 - 🔭 **I’m currently working on:** Bridge Health Care
 - 🌱 **I’m currently learning:** Retrieval-Augmented Generation and MySQL
-- 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** abhishek963sahu@gmail.com
 - ⚡ **Fun fact:** I Love Building and Watch Them Take Shape
